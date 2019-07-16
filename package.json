@@ -7,6 +7,10 @@
     "scanner"
   ],
   "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "unzip2": "^0.2.5"
+  },
   "bin": {
     "sonar-scanner": "index.js"
   },
